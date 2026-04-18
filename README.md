@@ -1,16 +1,112 @@
-# React + Vite
+# 🎮 Personal Portfolio – Darshan Patil
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> 🚀 Welcome to my **AI & Data Science Portfolio** designed as an interactive **game interface** where every section represents a mission, skill tree, and communication hub.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🧠 PLAYER PROFILE
 
-## React Compiler
+**Name:** Darshan Patil  
+**Role:** AI & Data Science Student  
+**Location:** Pune, India  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+> ⚡ “Transforming data into insights and building AI-powered solutions.”
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 GAME CONCEPT
+
+This portfolio is designed like a **futuristic game dashboard**, where:
+
+- 🛰 **INIT MISSIONS** → Projects  
+- 📡 **COM-LINK** → Experience  
+- 📊 **SKILL TREES** → Technical Skills  
+- 📬 **COMMUNICATION HUB** → Contact Section  
+
+---
+
+## 🚀 INIT MISSIONS (PROJECTS)
+
+Each mission represents a real-world problem solved using AI & Data Science.
+
+- 🔹 **KisanDhan** – AI-based agricultural analytics platform  
+- 🔹 **Monitor-X** – Online exam proctoring system  
+- 🔹 **Rentiverse** – AI-powered rental platform (Hackathon Project)  
+- 🔹 **Box Office Prediction** – ML model for revenue prediction  
+
+> 🎖 Completed under real-world constraints & hackathon environments
+
+---
+
+## 📡 COM-LINK (EXPERIENCE)
+
+- 💼 **Data Analyst Intern – Linkcode Technologies**  
+  - Data cleaning & preprocessing  
+  - Real-time API data integration  
+
+- 🏆 **Odoo Hackathon 2025 – AIR 21**  
+  - Built AI platform under time pressure  
+
+- 🎓 **Vice President – AISA**  
+  - Led tech initiatives and student teams  
+
+---
+
+## 🌌 SKILL TREES
+
+### 🧩 Programming
+- Python, SQL  
+
+### 📊 Data Analysis
+- Data Cleaning, EDA, KPI Analysis  
+- Statistical Analysis, Feature Engineering  
+- Model Evaluation  
+
+### 🤖 Machine Learning
+- Supervised Learning  
+- Model Building & Optimization  
+
+### 📚 Libraries
+- Pandas, NumPy, Matplotlib, Scikit-learn  
+
+### 🛠 Tools
+- Excel, Power BI, Git, Postman  
+
+---
+
+## 🧪 SYSTEM FEATURES
+
+- ⚡ Interactive UI with futuristic design  
+- 🎮 Game-inspired navigation  
+- 📱 Fully responsive  
+- 🌐 Deployed using modern hosting platforms  
+
+---
+
+## 📬 COMMUNICATION HUB
+
+> 🛰 System active. Open for opportunities in:
+- Data Science  
+- Data Analysis  
+- AI/ML Roles  
+
+📧 Email: patildarshann3@gmail.com  
+
+
+---
+
+## 🚀 DEPLOYMENT
+
+This portfolio is deployed using:
+- 🌐 Vercel  
+- 🔗 GitHub Integration  
+
+---
+
+## 🏁 FINAL MESSAGE
+
+> “Every dataset is a mission. Every model is a weapon. Every insight is a victory.”
+
+---
+
+⭐ If you like this project, consider giving it a star!
