@@ -91,8 +91,6 @@ Each mission represents a real-world problem solved using AI & Data Science.
 - AI/ML Roles  
 
 📧 Email: patildarshann3@gmail.com  
-🔗 LinkedIn: [Add Link]  
-💻 GitHub: [Add Link]
 
 ---
 
